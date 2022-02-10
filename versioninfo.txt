@@ -1,0 +1,66 @@
+﻿marlin3:
+Marlin3_GNSS_W20.03.2
+
+marlin3lite:
+GNSS_18BL_W20.03.2
+
+
+从GNSS_W17.37.1开始,GNSS的firmware和AGPS,libgps将分别出版本
+W20.03.2更新:marlin3lite navcore
+W20.03.2更新:marlin3 navcore
+W19.52.2更新:marlin3lite navcore
+W19.52.2更新:marlin3 navcore
+W19.51.3更新:marlin3lite navcore
+W19.51.3更新:marlin3 navcore
+W19.50.2更新:marlin3lite navcore
+W19.50.2更新:marlin3 navcore
+W19.48.2更新:marlin3lite navcore
+W19.48.2更新:marlin3 navcore
+W19.47.2更新:marlin3lite navcore
+W19.47.2更新:marlin3 navcore
+W19.46.2更新:marlin3lite navcore
+W19.46.2更新:marlin3 navcore
+W19.45.2更新:marlin3lite navcore
+W19.45.2更新:marlin3 navcore
+W19.44.2更新:marlin3lite navcore
+W19.44.2更新:marlin3 navcore
+W19.43.1更新:marlin3lite navcore
+W19.42.2更新:marlin3lite navcore
+W19.38.2更新:marlin3lite navcore
+W19.37.4更新:marlin3lite navcore
+W19.33.2更新:marlin3lite navcore
+W19.11.3更新:marlin3lite navcore
+W19.10.3更新:marlin3lite navcore
+W19.10.3更新:marlin3 navcore
+W19.09.3更新:marlin3lite navcore
+W19.09.3更新:marlin3 navcore
+W19.08.3更新:marlin3 navcore
+W19.08.1更新:marlin3lite navcore
+W19.05.3更新:marlin3lite navcore
+W19.05.3更新:marlin3 navcore
+W19.04.4更新:marlin3 navcore
+W19.04.1更新:marlin3lite navcore
+W19.03.1更新:marlin3lite navcore
+W19.02.3更新:marlin3 navcore
+W19.02.3更新:marlin3lite navcore
+W19.1.3更新:marlin3lite navcore
+W19.1.3_1更新:marlin3 navcore
+W18.52.3_1更新:marlin3 navcore
+W18.52.3_1更新:marlin3lite navcore
+W18.51.3_1更新:marlin3lite navcore
+W18.13.2更新证书:  spirentroot.cer
+W18.6.3 更新的版本:firmware
+W18.4.1 更新证书:  spirentroot.cer
+W18.2.4 更新的版本:AGPS和firmware
+W18.1.2 更新的版本:AGPS
+W17.51.4更新的版本:firmware
+W17.49.5更新的版本:AGPS
+W17.49.4更新的版本:firmware和AGPS
+W17.47.5更新的版本:firmware
+W17.45.5更新的版本:firmware
+W17.43.4更新的版本:firmware
+W17.42.3更新的版本:firmware
+W17.41.5更新的版本:firmware
+W17.39.4更新的版本:firmware
+W17.38.4更新的版本:firmware
+W17.37.1更新的版本:AGPS
